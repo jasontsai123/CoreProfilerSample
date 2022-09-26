@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "w4y8CGDlYrXrewddpWN/l/Kx9w9HMzOUnnEKZzvboN0=",
+  "Source": "CoreProfilerSample.Web",
+  "BasePath": "_content/CoreProfilerSample.Web",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

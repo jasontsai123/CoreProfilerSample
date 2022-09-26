@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "35aa6459-5bea-4fb2-bdf2-05d6b77e9b7c": {
+      "ProjectGuid": "35aa6459-5bea-4fb2-bdf2-05d6b77e9b7c",
+      "DisplayName": "CoreProfilerSample.Web",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
